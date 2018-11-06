@@ -59,13 +59,13 @@
 			<version>3.4</version>
 		</dependency>
 
-<dependency>
-    <groupId>com.google.protobuf</groupId>
-    <artifactId>protobuf-java</artifactId>
-    <version>3.0.0</version>
-</dependency>
+		<dependency>
+    			<groupId>com.google.protobuf</groupId>
+    			<artifactId>protobuf-java</artifactId>
+    			<version>3.0.0</version>
+		</dependency>
 
-	<dependency>
+		<dependency>
 			<groupId>edu.stanford.nlp</groupId>
 			<artifactId>stanford-corenlp</artifactId>
 			<version>3.6.0</version>
@@ -102,57 +102,48 @@
 			<version>1.8</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-visualization -->
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-visualization</artifactId>
 			<version>2.1.1</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-algorithms -->
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-algorithms</artifactId>
 			<version>2.1.1</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-graph-impl -->
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-graph-impl</artifactId>
 			<version>2.1.1</version>
 		</dependency>
 
-
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-io -->
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-io</artifactId>
 			<version>2.1.1</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-api -->
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-api</artifactId>
 			<version>2.1.1</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-3d -->
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-3d</artifactId>
 			<version>2.0.1</version>
 		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/net.sf.jung/jung-jai -->
+		
 		<dependency>
 			<groupId>net.sf.jung</groupId>
 			<artifactId>jung-jai</artifactId>
 			<version>2.0.1</version>
 		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/net.sf.jwordnet/jwnl -->
+		
 		<dependency>
 			<groupId>net.sf.jwordnet</groupId>
 			<artifactId>jwnl</artifactId>
